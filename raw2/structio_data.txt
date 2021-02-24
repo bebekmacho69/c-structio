@@ -1,0 +1,4 @@
+itemIndex:3
+#0-200-Pisswasser-A beer from san andreas#
+#1-500-Pockka stigg-Collectors item stick, even its expired#
+#2-1000-PQ Cigars-Real tasty cigars!#

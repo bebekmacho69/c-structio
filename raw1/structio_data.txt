@@ -1,0 +1,12 @@
+itemToFile:10
+itemIndex:10
+#0-200-nau-pembalab#
+#1-200-dayat-pemalak#
+#2-400-nau2-pembalap2#
+#3-200-culyo-test#
+#4-200-alfa-kopi#
+#5-200-prims-awawaw#
+#6-222-test-test#
+#7-200-ngen-awawa#
+#8-200-ngen-awaw#
+#9-222-test2-test2#
